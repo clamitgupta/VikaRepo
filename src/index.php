@@ -1,5 +1,5 @@
 <?php
-echo 'This is testing git and docker files and modified on date 18-2-2017.';
+echo 'This is testing git and docker files and modified odn date 18-2-2017.';
 
 
 echo "<br/>";
